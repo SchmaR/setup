@@ -24,5 +24,6 @@ brew cask install jdownloader
 brew cask install steam
 brew cask install vlc
 brew cask install flash-player
+brew cask install rcdefaultapp
 
 

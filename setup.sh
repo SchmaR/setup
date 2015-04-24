@@ -33,3 +33,4 @@ brew cask install openttd
 brew cask install teamspeak-client
 brew cask install teamviewer
 brew cask install zotero 
+brew cask install rcdefaultapp
