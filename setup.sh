@@ -6,8 +6,13 @@ echo "########## installing standart components ... ################"
 echo " "
 brew install git
 brew install python3
+brew install pyhton
 brew install nmap-zenmap
 brew install ntfs-3g
+brew install fish
+brew install maven
+brew install nmap-zenmap
+brew install osxfuse
 brew cask install java
 brew cask install google-chrome
 brew cask install firefox
@@ -17,7 +22,6 @@ brew cask install gpgtools
 brew cask install eclipse-jee
 brew cask install android-studio-bundle
 brew cask install xampp
-brew cask install iterm2
 brew cask install sourcetree
 brew cask install filezilla
 brew cask install lyx
@@ -34,3 +38,6 @@ brew cask install teamspeak-client
 brew cask install teamviewer
 brew cask install zotero 
 brew cask install rcdefaultapp
+brew cask install qlmarkdown
+brew cask install virtualbox
+brew cask install wireshark
