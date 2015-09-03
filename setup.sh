@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "please make sure xcode ist installed right with : xcode-select --install "
+echo "please make sure xcode is installed right with : xcode-select --install "
 ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
 echo " "
 echo "########## installing standart components ... ################"
@@ -41,3 +41,5 @@ brew cask install rcdefaultapp
 brew cask install qlmarkdown
 brew cask install virtualbox
 brew cask install wireshark
+brew cask cleanup
+brew cleanup
