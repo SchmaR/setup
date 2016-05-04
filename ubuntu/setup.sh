@@ -10,6 +10,7 @@ sudo apt-get install -y filezilla
 sudo apt-get install -y vlc
 sudo apt-get install -y wireshark
 sudo apt-get install -y virtualbox
+sudo apt-get install -y qpdfview
 # oracle java
 sudo add-apt-repository ppa:webupd8team/java
 sudo apt-get update
