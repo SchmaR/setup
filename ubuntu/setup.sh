@@ -29,6 +29,7 @@ sudo apt-get install -y wavemon
 sudo apt-get install -y vim
 sudo apt-get install -y zenmap
 sudo apt-get install -y mtr-tiny
+sudo apt-get install -y texstudio-qt4
 # chrome
 wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add - 
 sudo apt-get update 
