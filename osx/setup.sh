@@ -14,34 +14,25 @@ brew install osxfuse
 brew install pandoc
 brew install pyhton
 brew install python3
-brew cask install adium
-brew cask install android-studio-bundle
 brew cask install bibdesk
 brew cask install eclipse-jee
 brew cask install filedrop
 brew cask install filezilla
 brew cask install firefox
-brew cask install flash-player
 brew cask install google-chrome
 brew cask install gpgtools
 brew cask install java
-brew cask install jdownloader
 brew cask install lyx
 brew cask install mactex
 brew cask install openoffice
 brew cask install openttd
-brew cask install qlmarkdown
-brew cask install rcdefaultapp
 brew cask install skype
 brew cask install sourcetree
 brew cask install steam
-brew cask install teamspeak-client
 brew cask install teamviewer
 brew cask install textwrangler
 brew cask install virtualbox
-brew cask install vlc
 brew cask install wireshark
-brew cask install xampp
 brew cask install zotero 
 brew cask cleanup
 brew cleanup
